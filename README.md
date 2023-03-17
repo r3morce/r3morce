@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">A passionate Agile Developer and Facilitator from Germany</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3morce&theme=onedark" alt="r3morce" /></a> </p>
-
 
 - 🌍  I'm based in Cologne
 - 🧠  I'm learning Web and Shopify Development
