@@ -23,6 +23,7 @@ A passionate Agile Developer and Facilitator from Germany
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/GNU_make-A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/homeassistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
