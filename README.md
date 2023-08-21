@@ -19,6 +19,7 @@ A passionate Agile Developer and Facilitator from Germany
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![iTerm 2](https://img.shields.io/badge/iterm2-000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zsh-99CC00?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![p10k](https://img.shields.io/badge/p10k-b04fc3?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
