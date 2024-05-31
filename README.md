@@ -18,6 +18,7 @@ A passionate Agile Developer and Facilitator from Germany
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![iTerm 2](https://img.shields.io/badge/iterm2-000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zsh-99CC00?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0F191F?style=for-the-badge&logo=neovim)
 ![p10k](https://img.shields.io/badge/p10k-b04fc3?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -41,6 +42,10 @@ A passionate Agile Developer and Facilitator from Germany
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Discord Bot](https://img.shields.io/badge/discord_bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack Bot](https://img.shields.io/badge/slack_bot-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+
+
+
 
 
 ## 📊 GitHub Stats
