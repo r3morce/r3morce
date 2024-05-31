@@ -3,7 +3,6 @@
 A passionate Agile Developer and Facilitator from Germany
 
 - 🌍 I'm based in Cologne
-- 🧠 I'm learning Web and Shopify Development
 - 💬 Ask me about Shopify, iOS Development and Scrum
 
 ## 💻 Tech Stack
