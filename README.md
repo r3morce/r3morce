@@ -27,6 +27,25 @@
 ![Bluetooth](https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=swift&logoColor=white)
 
+### AI & Modern Dev
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-6E2FBF?style=for-the-badge&logo=probot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-1D4E89?style=for-the-badge&logo=blueprint&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Mistral Vibe](https://img.shields.io/badge/Mistral%20Vibe-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
+![Pi Coding Agent](https://img.shields.io/badge/Pi%20Coding%20Agent-000000?style=for-the-badge&logo=probot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### DevOps & Tools
+![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitFlow](https://img.shields.io/badge/GitFlow-FF6F00?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ### Shopify & E-Commerce
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
@@ -41,28 +60,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Programming Languages
+### Script Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-### DevOps & Tools
-![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitFlow](https://img.shields.io/badge/GitFlow-FF6F00?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### AI & Modern Dev
-![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-6E2FBF?style=for-the-badge&logo=probot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-1D4E89?style=for-the-badge&logo=blueprint&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Mistral Vibe](https://img.shields.io/badge/Mistral%20Vibe-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
-![Pi Coding Agent](https://img.shields.io/badge/Pi%20Coding%20Agent-000000?style=for-the-badge&logo=probot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Environment
 ![Codium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
