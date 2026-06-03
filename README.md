@@ -60,14 +60,13 @@
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
 ### AI & Modern Dev
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Pi Coding Agent](https://img.shields.io/badge/Pi%20Coding%20Agent-000000?style=for-the-badge&logo=probot&logoColor=white)
 ![Mistral Vibe](https://img.shields.io/badge/Mistral%20Vibe-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
 ![Context Engineering](https://img.shields.io/badge/Context%20Engineering-1D4E89?style=for-the-badge&logo=blueprint&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-6E2FBF?style=for-the-badge&logo=probot&logoColor=white)
-![AI Prompting](https://img.shields.io/badge/AI%20Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Environment
 ![Neovim](https://img.shields.io/badge/Neovim-0F191F?style=for-the-badge&logo=neovim)
